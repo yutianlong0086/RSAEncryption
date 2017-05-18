@@ -1,0 +1,18 @@
+//
+//  RSADefine.h
+//  RSAEncryption
+//
+//  Created by YuTianLong on 2017/5/18.
+//  Copyright © 2017年 http://blog.csdn.net/yutianlong9306. All rights reserved.
+//
+
+#ifndef RSADefine_h
+#define RSADefine_h
+
+// 公钥加密
+#define RSA_Public_Key  @"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3uH/OuzCX+82rPfxTENmovMRFoeJumX0hRV5K6g803bAyYjNHBO2rMIAUYtGrsMSC/G2in5XiGKpivFKLcYz2cm03gYxCceD037Bt5LrAjqbcKhDd6KGOG5sagdJy2YtHVXMFXKsxmUkwwatr6j0qSP0I26o2QXh8S55+h52eBwIDAQAB"
+
+// 私钥解密
+#define RSA_Private_Key @"MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBALe4f867MJf7zas9/FMQ2ai8xEWh4m6ZfSFFXkrqDzTdsDJiM0cE7aswgBRi0auwxIL8baKfleIYqmK8UotxjPZybTeBjEJx4PTfsG3kusCOptwqEN3ooY4bmxqB0nLZi0dVcwVcqzGZSTDBq2vqPSpI/QjbqjZBeHxLnn6HnZ4HAgMBAAECgYBCh/DYt5cYYtqPGcpndmGsJnfZU4+BR9o1kz5bWLmbBnEJPeCd5l3/MXggaczOJRx05t75Flub3hzN1q75ymwmMaRtyw57BIUkgk7EaIMnLR89foOJ38nAh0vHd/B8ucug/HgspVMpMYuIEqh5StZLIsnFCE/FzhNIS1H/WEPUmQJBAOrwKtVuSr96bfQ67hZIhkSBVZVjYx58nYh7Mg9jS4/4fzgvfAFeEEDVZgMDqN+ULmQLMCdoYlTHTVm4ZHcRer0CQQDIMOQTrUoK0++Wt0eHhI6/DEn+pUGKj5hLzMRTU29yePt6t8A5GU4134tLpxq74PTOfOY9ktLbvAqkKr2yEKoTAkEAnqR6aBDHzLCBWvAIIWfrsoqbHfs0zTtcrPJzhUyJk7g7P9dgpxO7aewvrE1mVUMcaFXduF6WN6U1KCaJQJW/CQJAZjhQvZtmi1DcreC4LYKKQRNNVTGc3duksE/Gj6Wy6ojMIEVjacR6IxgaUG7rP7QGTMmJ5zbpZDoIVPteEWZg8QJBAM92yrhj1cPevzEXt49U2Jc9HFrRI7lDZ62BiEQ1Np1CYOaKXT4u4ASs4+pQpITKALlS6xfcVx/xztcLQOqR+4M="
+
+#endif /* RSADefine_h */
